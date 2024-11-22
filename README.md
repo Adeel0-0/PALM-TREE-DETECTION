@@ -93,7 +93,7 @@ The dataset consists of aerial images annotated with palm tree bounding boxes in
 | **YOLOv8**    | 0.86      | 0.86   | 0.88    | 0.54         |
 | **Faster R-CNN** | 0.88   | 0.85   | 0.88    | 0.48         |
 
-![Model Performance Comparison](https://via.placeholder.com/800x400.png?text=Model+Performance+Comparison)
+
 
 ---
 
